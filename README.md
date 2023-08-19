@@ -2,9 +2,9 @@ The project aims to analyze the data of sales of various products during the Ind
 
 
 # Technologies Used:
-Python- Numpy, Pandas, Matplotlib, Seaborn
-Jupytr Notebook
-Excel
+Python- Numpy, Pandas, Matplotlib, Seaborn;
+Jupytr Notebook;
+Excel;
 Git
 
 
